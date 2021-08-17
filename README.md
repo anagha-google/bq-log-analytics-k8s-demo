@@ -3,8 +3,7 @@
 </p>
 
 
-![Continuous Integration](https://github.com/GoogleCloudPlatform/microservices-demo/workflows/Continuous%20Integration%20-%20Master/Release/badge.svg)
-
+**THIS IS A COPY OF THE ONLINE BOUTIQUE modified (by [Xiang Shen](https://github.com/xiangshen-dk/microservices-demo/commits?author=xiangshen-dk))  for the BQ Log Analytics Lab and may be behind on the original version available [here](https://github.com/GoogleCloudPlatform/microservices-demo).**
 
 **Online Boutique** is a cloud-native microservices demo application.
 Online Boutique consists of a 10-tier microservices application. The application is a
