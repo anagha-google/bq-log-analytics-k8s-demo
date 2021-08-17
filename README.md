@@ -1,9 +1,12 @@
+<hr>
+<hr>
+***THIS IS A COPY** of the ONLINE BOUTIQUE modified for the BQ Log Analytics Lab (by [Xiang Shen](https://github.com/xiangshen-dk)) and may be behind on the original version available [here](https://github.com/GoogleCloudPlatform/microservices-demo).*
+<hr>
+<hr>
+
 <p align="center">
 <img src="src/frontend/static/icons/Hipster_HeroLogoCyan.svg" width="300" alt="Online Boutique" />
 </p>
-
-
-***THIS IS A COPY** of the ONLINE BOUTIQUE modified for the BQ Log Analytics Lab (by [Xiang Shen](https://github.com/xiangshen-dk)) and may be behind on the original version available [here](https://github.com/GoogleCloudPlatform/microservices-demo).*
 
 **Online Boutique** is a cloud-native microservices demo application.
 Online Boutique consists of a 10-tier microservices application. The application is a
