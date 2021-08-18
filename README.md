@@ -3,7 +3,7 @@
 
 **THIS IS A COPY of the ONLINE BOUTIQUE** modified for the BigQuery Log Analytics Lab and may be behind on the original version available [here](https://github.com/GoogleCloudPlatform/microservices-demo).<br><br>
 
-Instructions for provisioning are covered [in the BQ Log Analytics lab](https://github.com/anagha-google/bq-log-analytics). The rest of this document is informational.
+Instructions for provisioning are covered in the [BQ Log Analytics lab](https://github.com/anagha-google/bq-log-analytics). The rest of this document is informational.
 
 <hr>
 <hr>
