@@ -1,7 +1,7 @@
 <hr>
 <hr>
 
-**THIS IS A COPY of the ONLINE BOUTIQUE** modified for the BigQuery Log Analytics Lab by [Xiang Shen](https://github.com/xiangshen-dk) and may be behind on the original version available [here](https://github.com/GoogleCloudPlatform/microservices-demo).
+**THIS IS A COPY of the ONLINE BOUTIQUE** modified for the BigQuery Log Analytics Lab and may be behind on the original version available [here](https://github.com/GoogleCloudPlatform/microservices-demo).
 
 <hr>
 <hr>
